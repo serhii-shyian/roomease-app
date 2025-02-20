@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RoomeaseAppApplication {
+public class RoomeaseApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RoomeaseAppApplication.class, args);
+        SpringApplication.run(RoomeaseApplication.class, args);
     }
 
 }
